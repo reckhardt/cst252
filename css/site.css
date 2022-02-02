@@ -28,14 +28,8 @@ h2 {
   margin: 25px 0 25px 0;
 }
 
-
-h3 {
-  font-size: 20px;
-  margin-bottom: 10px;
-}
-
-p {
-  margin-bottom: 10px;
+p, li {
+  margin-bottom: 12.5px;
 }
 
 div#bio {
@@ -46,6 +40,6 @@ div#bio {
 
 div#nav {
   position: absolute;
-  top: 60%;
-  left: 70%;
+  top: 55%;
+  left: 55%;
 }
