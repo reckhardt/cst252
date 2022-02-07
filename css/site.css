@@ -43,13 +43,3 @@ div#nav {
   top: 55%;
   left: 60%;
 }
-
-div#photo {
-  background-image: url("img/IMG_4245.png");
-  width: 400px;
-  height: 100vh;
-  background-repeat: none;
-  background-size: cover;
-
-
-}
