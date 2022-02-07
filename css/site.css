@@ -35,11 +35,22 @@ p, li {
 div#bio {
   position: absolute;
   top: 20%;
-  left: 20%;
+  left: 24%;
 }
 
 div#nav {
   position: absolute;
   top: 55%;
-  left: 55%;
+  left: 60%;
+}
+
+div#photo {
+  background-color: red;
+  background-image: url("../img/IMG_4245.png");
+  width: 400px;
+  height: 100vh;
+  background-repeat: none;
+  background-size: cover;
+
+
 }
