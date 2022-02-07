@@ -14,7 +14,7 @@ a:visited {
   color #f5f5f7;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
   font-weight: 700;
 }
 
@@ -23,13 +23,13 @@ h1 {
   margin-bottom: 50px;
 }
 
-h2 {
+h2, h3, h4 {
   font-size: 30px;
   margin: 35px 0 20px 0;
 }
 
 p, li {
-  margin-bottom: 12.5px;
+  line-height: 1.5em;
 }
 
 div#bio {
@@ -45,7 +45,7 @@ div#nav {
 }
 
 div#photo {
-  background-image: url("../img/IMG_4245.png");
+  background-image: url("img/IMG_4245.png");
   width: 400px;
   height: 100vh;
   background-repeat: none;

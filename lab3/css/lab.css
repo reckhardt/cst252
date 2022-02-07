@@ -1,0 +1,47 @@
+#content
+{
+  width: 80%;
+  margin-left: 10%;
+}
+
+#heading
+{
+  margin-bottom: 50px;
+}
+
+#stephanie
+{
+  margin-right: 46px;
+}
+
+#robert, #stephanie, #screenshots
+{
+  border: solid 1px #f5f5f7;
+  padding: 50px;
+  border-radius: 20px;
+  margin-bottom: 50px;
+
+}
+
+#robert, #stephanie
+{
+  width: calc(50% - 125px);
+  float: left;
+}
+
+img
+{
+  width: 300px;
+}
+
+#screenshots
+{
+  float: none;
+  clear: both;
+  width: calc(100% - 100px);
+}
+
+#screenshots img
+{
+  width: 300px;
+}
