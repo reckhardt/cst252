@@ -1,0 +1,12 @@
+div.major-section
+{
+  margin-left: 10%;
+}
+
+div.work
+{
+  border: solid 1px #f5f5f7;
+  border-radius: 20px;
+  padding: 50px 50px 50px 50px;
+  width: 80%;
+}
