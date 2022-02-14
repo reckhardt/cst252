@@ -1,0 +1,32 @@
+
+
+
+body
+{
+  margin: 0 10%;
+}
+
+.major-section
+{
+  border: solid 1px #fff;
+  border-radius: 20px;
+  padding: 50px;
+}
+
+.content
+{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 50px;
+  margin-top: 50px;
+}
+
+div.images
+{
+  width: 100%;
+}
+
+img
+{
+  width: 100%;
+}
